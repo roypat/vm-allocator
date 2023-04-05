@@ -12,5 +12,5 @@ edition = "2018"
 [dependencies]
 libc = "0.2.39"
 thiserror = "1.0"
-rand = "0.7"
+rand = "0.8"
 autocfg = "1.0.0"
